@@ -59,7 +59,7 @@ int main()
 	if (premItem == "y")
 		royaltyRate = 0.16;
 	else if (premItem == "n")
-		royaltyRate = 0.13;
+		royaltyRate = 0.12;
 		
 	cout << "---" << endl;
 	 
